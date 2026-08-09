@@ -32,6 +32,7 @@ typedef HANDLE sem_t;
 typedef CRITICAL_SECTION pthread_mutex_t;
 typedef HANDLE pthread_t;
 
+
 static int sem_init(sem_t *sem, int pshared, unsigned int value)
 {
     if (!sem) return -1;
