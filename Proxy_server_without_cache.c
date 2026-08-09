@@ -1,5 +1,4 @@
 #include "proxy_parse.h"
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -273,11 +272,7 @@ int sendErrorMessage(int socket, int status_code)
 
 				  break;
 
-
-
 		default:  return -1;
-
-
 
 	}
 
