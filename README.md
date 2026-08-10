@@ -86,8 +86,8 @@ MultiThreadedProxyServerClient/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/70Purushottam/MultiThreaded_ProxyServerClient.git
-cd MultiThreaded_ProxyServerClient
+git clone https://github.com/70Purushottam/MultiThreaded-Proxy-Server-with-LRU-Cache.git
+cd MultiThreaded-Proxy-Server-with-LRU-Cache
 ```
 
 ### Build the Project
